@@ -21,7 +21,7 @@
 		<swagger2>2.9.2</swagger2>
 		<swagger-bootstrap-ui>1.9.6</swagger-bootstrap-ui>
 		<mybatis-plus>3.3.1</mybatis-plus>
-		<mysql>5.1.48</mysql>
+		<mysql>8.0.16</mysql>
 	</properties>
 
 	<parent>
